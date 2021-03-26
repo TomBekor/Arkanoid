@@ -1,5 +1,5 @@
 # Arkanoid
-<img src="Arkanoid-level4.jpg" alt="Level-4" width="75%">
+<img src="Arkanoid-level4.jpg" alt="Level-4">
 
 ## Running Walkthrough
 Clone this repository with the command:
