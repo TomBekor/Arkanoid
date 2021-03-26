@@ -12,4 +12,8 @@ cd Arkanoid
 ant compline
 ant run
 ```
+To play specific levels, place their name (1 to 4) with the order you want like in the example below:
+```
+ant -Dargs="2 1 4" run
+```
 Have fun!
