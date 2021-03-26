@@ -1,5 +1,6 @@
 # Arkanoid
-![Arkanoid-level4.jpn](Arkanoid-level4.jpg)
+<img src="Arkanoid-level4.jpg" alt="Level-4" width="75%">
+
 ## Running Walkthrough
 Clone this repository with the command:
 ```
