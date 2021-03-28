@@ -2,6 +2,10 @@
 <img src="Arkanoid-level4.jpg" alt="Level-4">
 
 ## Running Walkthrough
+Prerequisites:
+```
+pip install ant
+```
 Clone this repository with the command:
 ```
 git clone https://github.com/TomBekor/Arkanoid.git
