@@ -1,11 +1,11 @@
 # Arkanoid
 <img src="Arkanoid-level4.jpg" alt="Level-4">
 
+### Prerequisites:
+To run the project easily, install `ant` following the instructions in the wiki page:
+https://github.com/TomBekor/Arkanoid/wiki/Installing-Apache-Ant 
+
 ## Running Walkthrough
-Prerequisites:
-```
-pip install ant
-```
 Clone this repository with the command:
 ```
 git clone https://github.com/TomBekor/Arkanoid.git
