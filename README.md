@@ -2,7 +2,7 @@
 <img src="Arkanoid-level4.jpg" alt="Level-4">
 
 ### Prerequisites:
-To run the project easily, install `ant` following the instructions in the wiki page:
+To run the project easily, install `ant` following the instructions in the wiki page: <br>
 https://github.com/TomBekor/Arkanoid/wiki/Installing-Apache-Ant 
 
 ## Running Walkthrough
